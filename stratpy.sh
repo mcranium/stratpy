@@ -1,2 +1,2 @@
 #!/bin/sh
-python /home/mario/Programs/StratPy/strat.py
+python /Path/to/your/folder/strat.py
